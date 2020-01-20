@@ -1,0 +1,4 @@
+[submodule "moacito.github.io"]
+	path = moacito.github.io
+	url = https://github.com/moacito/moacito.github.io.git
+	branch = master
